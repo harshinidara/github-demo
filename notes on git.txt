@@ -1,0 +1,29 @@
+
+
+
+git is the version control system which is used to keep the track of code changes and can take snapshot off the files
+three stages of git
+--> working directory
+--> staging area--pre-commit holding area
+--> commit-GIT repository
+remote repository is considered as the fourth stage
+
+
+snapshots is a record of our files that we look and the snapshot is the way that the git uses to keep the record of the files
+commit is the act of creating a snapshot and most of the projects in git are made up of collection of bunch of commits
+parent commit is the reference of the commit that came previous to the parent commit
+repositories or repo is the collection of all the files or the history of all the files and it stores all the commits and mainly used for storage
+cloning is the process of copying the repo from the remote server ex. copying the filed from github
+pulling is the process of downloading the commits that exists on the remote server
+pushing is the process of adding files to remote server
+branch is the active line of development and the most recent commit is the tip of the branch and the main branch is called as the master
+octopus is the process of merging two branches
+master is the default development branch and when we create a github we need to name the branch as the master
+head is the reference to the most recent commits
+index: whn a form is ready to put then it should be added in the index
+gitadd is the comment used to add the files
+gitcommit is the new commit used to create a new commit
+evilmerge is the merge that introduces changes that should not appear in any parent
+
+git clone command is used to set the relation back to the repository on github
+
